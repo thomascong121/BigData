@@ -1,0 +1,13 @@
+INFO  time: initialize in 0.44s
+WARN  no build tool detected in workspace '/Users/congcong/Desktop/COMP9313/assignment3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/congcong/Desktop/COMP9313/assignment3/assignment3/build.sbt
+WARN  no build target: /Users/congcong/Desktop/COMP9313/assignment3/assignment3/src/main/scala/assignment3.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /Users/congcong/Desktop/COMP9313/assignment3/assignment3/src/main/scala/assignment3.scala
+WARN  no build tool detected in workspace '/Users/congcong/Desktop/COMP9313/assignment3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/congcong/Desktop/COMP9313/assignment3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/congcong/Desktop/COMP9313/assignment3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/congcong/Desktop/COMP9313/assignment3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/congcong/Desktop/COMP9313/assignment3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/congcong/Desktop/COMP9313/assignment3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals

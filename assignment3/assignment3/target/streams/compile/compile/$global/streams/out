@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/tmp_amd/adams/export/adams/2/ccon404/workspace/assignment3/src/main/scala/assignment3.scala:39:109: not found: value concat[0m
+[0m[[0m[31merror[0m] [0m[0m                            method("POST").timeout(connTimeoutMs = 120000, readTimeoutMs = 120000).postData(concat).asString.body[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

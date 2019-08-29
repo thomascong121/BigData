@@ -1,0 +1,45 @@
+1. Case Management : cognitive augmentation | Data Curation|digital augmentation
+	process: interaction among people, services, process and device
+	Example: Inquiry process:
+		- Hypothesis, questions, planning
+		- Information items: inquiry content
+		- line of inquiries = tasks
+		- brief
+	Augmentation: Item tagging| [ for content]
+		- content augmentation: knowledge extraction |. Enrichment
+		- Natural language: search, conversations
+	Augmentation: Interactions with services  [for task]
+	cognitive augmentation:
+		- Annotation | coding [#comments]
+		- Context Capture
+		- Intent recogieron
+		- Natural language conversation with services [ ChatBots]
+	Empower Workers with digital assistants
+		- digital assistances through conversations between users and services
+	Productivity: everything repetitive which can be replaced by automated task: increase productivity
+	Effectiveness: doing the same thing but using a better way
+
+	
+	
+  2. Example: ChatBots1
+  	Tech:
+  		- role-based: if the user input match any provided pattern, bot is able to response
+  		- flow-based: design conversation flow [no coding required]
+  		- machine learning based: predict what user is likely to input
+
+  	flow-based | Characteristics
+  		- quick bootstraping
+  		- no coding
+  		- fast and accurate
+  		- could be smart enough, if developer can think of every possible situations
+  		- simple
+
+  	flow-based | Characteristics
+  		- card: basic building components
+  		- text: text card can contain onlt text
+  		- quick reply
+  		- Gallery/Carousel: allows you to send images
+  		- block: contain 1+ message card [container]
+
+
+

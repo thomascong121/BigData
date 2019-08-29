@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<case>
+	<name>Eric Test</name>
+	<AustLII>http://www.google.com</AustLII>
+	<catchphrases>
+		<catchphrase>award</catchphrase>
+		<catchphrase>breach</catchphrase>
+	</catchphrases>
+	<sentences>
+		<sentence id="s0">This is Sydney.</sentence>
+		<sentence id="s1">This is Eric.</sentence>
+		<sentence id="s2">This is UNSW.</sentence>
+	</sentences>
+</case>
